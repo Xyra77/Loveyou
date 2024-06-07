@@ -1,2 +1,0 @@
-# Loveyou
-Untuk hiburan
