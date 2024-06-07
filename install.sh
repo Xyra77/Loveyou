@@ -10,7 +10,7 @@ TARGET_DIR="/storage/emulated/0/Hack"
 mkdir -p "$TARGET_DIR"
 
 # Menyalin semua file gambar (jpg, png, jpeg) dari album ke direktori tujuan
-find "$SOURCE_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) -e>
+find "$SOURCE_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \)
 
 echo "Aku mau kasih pantun
 Ikan Hiu Ikan Cucut
